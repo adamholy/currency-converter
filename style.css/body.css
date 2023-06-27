@@ -1,0 +1,12 @@
+.body {
+  padding: 5px;
+  font-family: "Kanit", sans-serif;
+  font-size: 20px;
+  max-width: 1000px;
+  margin: auto;
+  background-image: url("../images/istockphoto-1360681902-612x612.jpg");
+}
+
+.body__title {
+    text-align: center;
+}
