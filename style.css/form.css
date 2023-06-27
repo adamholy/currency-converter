@@ -1,0 +1,48 @@
+.form__result {
+  font-size: 28px;
+  margin: 10px auto;
+  align-items: center;
+}
+
+
+
+.form-result--number {
+  border: double 1px;
+  color: rgb(174, 0, 255);
+  border-radius: 10%;
+}
+
+.form {
+ margin: 10px 20px;
+  color: rgb(174, 0, 255);
+  ;
+}
+
+.form__legend {
+
+  padding: 5px;
+
+  color: rgb(174, 0, 255);
+  border-radius: 10%;
+}
+
+.form__field {
+  background-color: rgb(255, 255, 255);
+  border: 3px solid rgb(174, 0, 255);
+  border-radius: 5px;
+}
+
+.form__label {
+  border: none;
+  text-align: center;
+}
+
+.form__select {
+  background-color: rgb(255, 255, 255);
+  border: 3px solid rgb(174, 0, 255);
+  border-radius: 5px;
+
+}
+.form__result {
+  text-align: center;
+}
